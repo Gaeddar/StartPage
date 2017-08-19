@@ -16,7 +16,7 @@ Customizing, adding mascots and themes
 
 To customize mascots in `ruri-dark` theme, modify the array in [themes/ruri-dark/mascots.js](themes/ruri-dark/mascots.js):
 ```javascript
-var mascotList = [ "ruri1.png", "ruri2.png", "ruri3.png" ];
+var mascotList = [ "ex.png", "ex2.png" ];
 ```
 
 To make new theme, you can copy an existing one, and change images and [colors.css](themes/ruri-dark/colors.css) as you like.  
