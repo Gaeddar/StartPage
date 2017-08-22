@@ -8,7 +8,7 @@ body {
 }
 
 .name-highlight {
-    color: #87CEEB;	/* red FF0571 sky blue 87CEEB orange FF9966*/
+    color: #FFFFFF;	/* red FF0571 sky blue 87CEEB orange FF9966*/
 }
 
 main {
@@ -31,6 +31,10 @@ h1 {
 }
 
 .subtitle {
+    color: #E9A684;
+}
+
+.quotes {
     color: #E9A684;
 }
 

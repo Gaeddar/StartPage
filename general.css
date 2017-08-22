@@ -19,6 +19,16 @@ body {
     border: 0;
 }
 
+article{
+	width:80%;
+	margin:auto;
+	font-size:2em;
+	top:50%;
+	position:relative;
+	transform:translateY(-50%);
+}
+
+
 /* .mascot and .plain will be added to element 'main' by javascript in
     addition to a random mascot */
 .mascot {
@@ -40,7 +50,6 @@ main {
     margin: 10vh 0 0 0;
 }
 
-
 header {
     margin-bottom: 10px;
 }
@@ -56,6 +65,13 @@ h1 {
 
 .subtitle {
     text-align: center;
+    letter-spacing: 2px;
+    padding: 0;
+    margin: 0;
+}
+
+.quotes {
+	text-align: center;
     letter-spacing: 2px;
     padding: 0;
     margin: 0;
