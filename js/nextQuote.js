@@ -8,10 +8,11 @@ var quotes = [
 	'I pretended I was drunk when I came out to my friends, I never came out to my friends',
 	'\'Cause I don\'t wanna know, I don\'t wanna know, I don\'t wanna know, I don\'t wanna know',
 	'En cactus reste sig och sa! Cactus galaxus det e jag!',
-	'Pick me up, Dust me off Give me breath, And let me cough Drag me back, collect my thoughtsI\'ve come back to the land I\'d lost',
-	'Som du strålar från mitt hjärta Som en motorväg av ljus Genom hålet i mitt hjärta Kommer räddningen till slut Genom hålet i mitt hjärta',
-	'Och jag stal något du var beredd att ge mig Du förlät mig, jag kunde inte se dig I ögonen, förlåt älskling Jag gör det snart igen',
-	'Några av oss hittar dit en gång men förstår inte vad vi ser, Några av oss hittar dit en gång sen aldrig aldrig mer',]
+	'Pick me up, Dust me off Give me breath, And let me cough',
+	'Genom hålet i mitt hjärta Kommer räddningen till slut Genom hålet i mitt hjärta',
+	'Jag stal något du var beredd att ge mig Du förlät mig, jag kunde inte se dig I ögonen, förlåt älskling Jag gör det snart igen',
+	'Några av oss hittar dit en gång men förstår inte vad vi ser, Några av oss hittar dit en gång sen aldrig aldrig mer',
+	'By the time I got to New York, I was living like a king ,Then, I used up all my money, I was looking for your ass',]
 var currentQuote = 0;
 
 function nextQuote(showImmediately) {
