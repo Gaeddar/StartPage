@@ -241,12 +241,12 @@ nav {
     transition: all 0.8s;
 }
 
-@media screen and (max-width: 350px){
+@media screen and (max-width: 360px){
 
 /* .mascot and .plain will be added to element 'main' by javascript in
     addition to a random mascot */
 .mascot {
-    padding: 20px 300px 20px 0px;
+    padding: 20px 0% 20px 0px;
 }
 
 .plain {
