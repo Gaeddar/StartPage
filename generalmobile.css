@@ -49,15 +49,6 @@ main {
     border-style: solid;
     margin: 10vh 0 0 0;
 }
-@media screen and (max-width: 500px){
-
-main, subnav{  /*stack the 2 text boxes*/
-  
-  float: left;  
-  padding:0; 
-  width: 94%;    /*3%+94%+3%=100%=full width*/
-  margin: 3%;    /*3% margin spaces on all sides*/
-}   
 
 header {
     margin-bottom: 10px;
