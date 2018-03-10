@@ -109,7 +109,47 @@ addVideo('themes/ruri-dark/videos/too young to gondola.webm', 'themes/ruri-dark/
 addVideo('themes/ruri-dark/videos/treeGondo.webm', 'themes/ruri-dark/videos/treeGondo.ogg');
 addVideo('themes/ruri-dark/videos/Veranda.webm', 'themes/ruri-dark/videos/Veranda.ogg');
 addVideo('themes/ruri-dark/videos/WALLASaGROMITTgondola.webm', 'themes/ruri-dark/videos/WALLASaGROMITTgondola.ogg');
-
+addVideo('themes/ruri-dark/videos/1518000393355.webm', 'themes/ruri-dark/videos/1518000393355.ogg');
+addVideo('themes/ruri-dark/videos/1518000757649.webm', 'themes/ruri-dark/videos/1518000757649.ogg');
+addVideo('themes/ruri-dark/videos/1518002606020.webm', 'themes/ruri-dark/videos/1518002606020.ogg');
+addVideo('themes/ruri-dark/videos/1518003255957.webm', 'themes/ruri-dark/videos/1518003255957.ogg');
+addVideo('themes/ruri-dark/videos/1518003435800.webm', 'themes/ruri-dark/videos/1518003435800.ogg');
+addVideo('themes/ruri-dark/videos/1518003512598.webm', 'themes/ruri-dark/videos/1518003512598.ogg');
+addVideo('themes/ruri-dark/videos/1518006880299.webm', 'themes/ruri-dark/videos/1518006880299.ogg');
+addVideo('themes/ruri-dark/videos/1518009091431.webm', 'themes/ruri-dark/videos/1518009091431.ogg');
+addVideo('themes/ruri-dark/videos/1518013624803.webm', 'themes/ruri-dark/videos/1518013624803.ogg');
+addVideo('themes/ruri-dark/videos/1518014128140.webm', 'themes/ruri-dark/videos/1518014128140.ogg');
+addVideo('themes/ruri-dark/videos/1518022375787.webm', 'themes/ruri-dark/videos/1518022375787.ogg');
+addVideo('themes/ruri-dark/videos/1518042666927.webm', 'themes/ruri-dark/videos/1518042666927.ogg');
+addVideo('themes/ruri-dark/videos/1518042752297.webm', 'themes/ruri-dark/videos/1518042752297.ogg');
+addVideo('themes/ruri-dark/videos/1518067727407.webm', 'themes/ruri-dark/videos/1518067727407.ogg');
+addVideo('themes/ruri-dark/videos/1518104369405.webm', 'themes/ruri-dark/videos/1518104369405.ogg');
+addVideo('themes/ruri-dark/videos/1518140221628.webm', 'themes/ruri-dark/videos/1518140221628.ogg');
+addVideo('themes/ruri-dark/videos/1518141257817.webm', 'themes/ruri-dark/videos/1518141257817.ogg');
+addVideo('themes/ruri-dark/videos/1518196867768.webm', 'themes/ruri-dark/videos/1518196867768.ogg');
+addVideo('themes/ruri-dark/videos/1518246201020.webm', 'themes/ruri-dark/videos/1518246201020.ogg');
+addVideo('themes/ruri-dark/videos/1518252609718.webm', 'themes/ruri-dark/videos/1518252609718.ogg');
+addVideo('themes/ruri-dark/videos/1518336519183.webm', 'themes/ruri-dark/videos/1518336519183.ogg');
+addVideo('themes/ruri-dark/videos/1518389144561.webm', 'themes/ruri-dark/videos/1518389144561.ogg');
+addVideo('themes/ruri-dark/videos/1518551699824.webm', 'themes/ruri-dark/videos/1518551699824.ogg');
+addVideo('themes/ruri-dark/videos/1518554806213.webm', 'themes/ruri-dark/videos/1518554806213.ogg');
+addVideo('themes/ruri-dark/videos/1518576216592.webm', 'themes/ruri-dark/videos/1518576216592.ogg');
+addVideo('themes/ruri-dark/videos/1518585893403.webm', 'themes/ruri-dark/videos/1518585893403.ogg');
+addVideo('themes/ruri-dark/videos/1518635874354.webm', 'themes/ruri-dark/videos/1518635874354.ogg');
+addVideo('themes/ruri-dark/videos/1518749700364.webm', 'themes/ruri-dark/videos/1518749700364.ogg');
+addVideo('themes/ruri-dark/videos/1518835200509.webm', 'themes/ruri-dark/videos/1518835200509.ogg');
+addVideo('themes/ruri-dark/videos/1519137016799.webm', 'themes/ruri-dark/videos/1519137016799.ogg');
+addVideo('themes/ruri-dark/videos/1519251228404.webm', 'themes/ruri-dark/videos/1519251228404.ogg');
+addVideo('themes/ruri-dark/videos/1519371927653.webm', 'themes/ruri-dark/videos/1519371927653.ogg');
+addVideo('themes/ruri-dark/videos/1519567622695.webm', 'themes/ruri-dark/videos/1519567622695.ogg');
+addVideo('themes/ruri-dark/videos/1519577757683.webm', 'themes/ruri-dark/videos/1519577757683.ogg');
+addVideo('themes/ruri-dark/videos/1519793881274.webm', 'themes/ruri-dark/videos/1519793881274.ogg');
+addVideo('themes/ruri-dark/videos/1519867120959.webm', 'themes/ruri-dark/videos/1519867120959.ogg');
+addVideo('themes/ruri-dark/videos/1519954971372.webm', 'themes/ruri-dark/videos/1519954971372.ogg');
+addVideo('themes/ruri-dark/videos/1520059224460.webm', 'themes/ruri-dark/videos/1520059224460.ogg');
+addVideo('themes/ruri-dark/videos/1520233134589.webm', 'themes/ruri-dark/videos/1520233134589.ogg');
+addVideo('themes/ruri-dark/videos/1520545583337.webm', 'themes/ruri-dark/videos/1520545583337.ogg');
+addVideo('themes/ruri-dark/videos/1520657146202.webm', 'themes/ruri-dark/videos/1520657146202.ogg');
 
 list.sort(function(a, b) {return 0.5 - Math.random()});
 
